@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quentin-rey
 - 👀 I’m interested in photography, weather, and web development!
-- 🌱 I'm currently learning full-stack web development, and more precisely Javascript 
+- 🌱 I'm currently learning full-stack web development
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : -
