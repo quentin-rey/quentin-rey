@@ -1,8 +1,9 @@
 # Quentin REY's Github Profile
 
 - 👋 Hi, I’m @quentin-rey
-- 👀 I’m interested in photography, weather, and web development!
+- 👨‍💻 I'm a SysAdmin, working with Linux, Windows, VMWare, Ansible, and more.
 - 🌱 I'm currently learning full-stack web development
+- 👀 I’m interested in photography, weather, and web development!
 
 # Projects
 
