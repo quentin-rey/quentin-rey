@@ -6,7 +6,7 @@
 
 # Projects
 
-* [Google Homepage](google-homepage/) - Part of The Odin Project
+* [Google Homepage](./google-homepage/) - Part of The Odin Project
 
 # Contributions
 
