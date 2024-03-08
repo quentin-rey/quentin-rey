@@ -7,6 +7,7 @@
 
 ## Projects
 
+- [Awesome Resources](https://github.com/quentin-rey/awesome-resources)
 - [Google Homepage](https://github.com/quentin-rey/google-homepage) - Part of The Odin Project
 
 ## Contributions
