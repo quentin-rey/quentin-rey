@@ -5,10 +5,10 @@
 - 🌱 I'm currently learning full-stack web development
 - 👀 I’m interested in photography, weather, and web development!
 
-# Projects
+## Projects
 
-* [Google Homepage](https://github.com/quentin-rey/google-homepage) - Part of The Odin Project
+- [Google Homepage](https://github.com/quentin-rey/google-homepage) - Part of The Odin Project
 
-# Contributions
+## Contributions
 
 N/A
