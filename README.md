@@ -7,8 +7,14 @@
 
 ## Projects
 
+### 2024
+
 - [Awesome Resources](https://github.com/quentin-rey/awesome-resources)
-- [Google Homepage](https://github.com/quentin-rey/google-homepage) - Part of The Odin Project
+- [JavaScript simple Role Playing Game](https://github.com/quentin-rey/fcc-role-playing-game) <sup>a freeCodeCamp Project</sup>
+
+### 2021
+
+- [Google Homepage](https://github.com/quentin-rey/google-homepage) <sup>a The Odin Project</sup>
 
 ## Contributions
 
