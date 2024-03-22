@@ -18,4 +18,4 @@
 
 ## Contributions
 
-N/A
+- [mdn/translated-content](https://github.com/mdn/translated-content)
