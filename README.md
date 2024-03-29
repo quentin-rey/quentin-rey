@@ -1,9 +1,8 @@
-# Quentin REY's Github Profile
+# 👋 Hi, I’m Quentin
 
-- 👋 Hi, I’m Quentin
-- 👨‍💻 I'm a SysAdmin, working with Linux, Windows, VMWare, Ansible, and more.
+- 👨‍💻 I'm a SysAdmin, working with _Linux_, _Windows_, _VMWare_, _Ansible_, and more.
 - 🌱 I'm currently learning full-stack web development
-- 👀 I’m interested in photography, weather, and web development!
+- 👀 I’m interested in open-source, photography, weather, japan culture and web development!
 
 ## Projects
 
@@ -16,6 +15,6 @@
 
 - [Google Homepage](https://github.com/quentin-rey/google-homepage) <sup>a The Odin Project</sup>
 
-## Contributions
+## Regular contributions
 
 - [mdn/translated-content](https://github.com/mdn/translated-content)
