@@ -12,7 +12,7 @@
 
 ## Orthogrape et ponctuation
 
-- Pour les espaces : **TO-DO**
+- Pour les espaces insécables, utiliser `&nbsp;` (Voir : https://github.com/mdn/translated-content/pull/19005#issuecomment-2047540236)
 - En vrac :
   - Mots clés → Mots-clés
 
