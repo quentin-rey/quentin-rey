@@ -13,6 +13,7 @@
 
 ## A Savoir
 
+- Lorsque l'on créé une page traduite, ajouté la clé metadata `l10n:sourceCommit` (Voir : https://github.com/mdn/translated-content/pull/18993#discussion_r1557639854)
 - Toujours vérifier s'il n'existe pas une page existante pour une valeur pour ajouter un lien
 - Lors de l'utilisations d'expressions en anglais, ajouter les balises `<i lang="en"></i>`
 
