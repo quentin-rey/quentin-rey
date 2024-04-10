@@ -5,7 +5,8 @@
 ### Règles
 
 - Utiliser un [langage épicène](https://fr.wikipedia.org/wiki/Langage_%C3%A9pic%C3%A8ne) afin d'éviter la discrimination par le langage.
-- Pour les espaces insécables, utiliser `&nbsp;` (Voir : https://github.com/mdn/translated-content/pull/19005#issuecomment-2047540236)
+- Pour les espaces insécable, utiliser `&nbsp;` (Voir : https://github.com/mdn/translated-content/pull/19005#issuecomment-2047540236)
+- Pour les guillemets, utiliser `«` et `»`, avbec espaces insécable. Exemple : `«&nbsp;En savoir plus&nbsp;»`
 
 ### Mots / Expressions
 
