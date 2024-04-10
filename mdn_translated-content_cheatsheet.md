@@ -5,16 +5,12 @@
 ### Règles
 
 - Utiliser un [langage épicène](https://fr.wikipedia.org/wiki/Langage_%C3%A9pic%C3%A8ne) afin d'éviter la discrimination par le langage.
+- Pour les espaces insécables, utiliser `&nbsp;` (Voir : https://github.com/mdn/translated-content/pull/19005#issuecomment-2047540236)
 
 ### Mots / Expressions
 
 - box / conteneur → boîte
-
-## Orthogrape et ponctuation
-
-- Pour les espaces insécables, utiliser `&nbsp;` (Voir : https://github.com/mdn/translated-content/pull/19005#issuecomment-2047540236)
-- En vrac :
-  - Mots clés → Mots-clés
+- Mots clés → Mots-clés
 
 ## A Savoir
 
