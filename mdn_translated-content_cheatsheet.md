@@ -2,12 +2,17 @@
 
 ## Traductions
 
+### Règles
+
+- Utiliser un [langage épicène](https://fr.wikipedia.org/wiki/Langage_%C3%A9pic%C3%A8ne) afin d'éviter la discrimination par le langage.
+
+### Mots / Expressions
+
 - box / conteneur → boîte
 
 ## Orthogrape et ponctuation
 
 - Pour les espaces : **TO-DO**
-
 - En vrac :
   - Mots clés → Mots-clés
 
