@@ -19,3 +19,7 @@
 - Toujours vérifier s'il n'existe pas une page existante pour une valeur pour ajouter un lien
 - Lors de l'utilisations d'expressions en anglais, ajouter les balises `<i lang="en"></i>`. (Voir : 
 - Lors d'une traduction, pour les macros *xref, préférer utiliser un lien vers la page fr (même si non existante). (Voir : https://github.com/mdn/translated-content/pull/19005#issuecomment-2047540236)
+
+## Liens utiles
+
+- https://github.com/mozfr/besogne/wiki/Guide-stylistique-pour-la-traduction
