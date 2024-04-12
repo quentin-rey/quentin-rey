@@ -12,6 +12,7 @@
 
 - box / conteneur → boîte
 - Mots clés → Mots-clés
+- Sidebar(s) → Barre(s) latérale(s)
 
 ## A Savoir
 
