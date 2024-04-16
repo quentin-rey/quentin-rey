@@ -19,36 +19,36 @@ _As this document is mainly intended for me, I'm going to write it in my native 
 
 ----
 
-## Ressources
+# Ressources
 
-### Langue Japonaise
+## Langue Japonaise
 
 - [Cours de Japonais !](https://www.youtube.com/c/CoursdejaponaisFR/videos)
 - [Big Japan](https://bigjapan.teachizy.fr/mon-espace)
 
 ----
 
-### Full-Stack Web Dev
+## Full-Stack Web Dev
 
 TO-DO
 
 ----
 
-### Cuisine
+## Cuisine
 
 TO-DO
 
 ----
 
-### Mathématiques
+## Mathématiques
 
 - [Awesome Math](https://github.com/rossant/awesome-math) <sup>Awesome List</sup>
 
-#### YouTube
+### YouTube
 
 - [YMONKA](https://www.youtube.com/@YMONKA) <sup>_Généraliste_</sup>
 
-#### Sites / Blog
+### Sites / Blog
 
 - [Maths-et-Tiques](https://www.maths-et-tiques.fr/) <sup>_Généraliste_</sup>
 - [Khan Academy](https://fr.khanacademy.org/) <sup>_Généraliste_</sup>
