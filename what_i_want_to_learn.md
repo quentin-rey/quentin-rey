@@ -4,9 +4,9 @@ _As this document is mainly intended for me, I'm going to write it in my native 
 
 ## De nouvelles choses (_Something new_)
 
-- [ ] Langue Japonaise
-- [ ] Full-Stack Web Dev
-- [ ] Cuisine
+- [ ] [Langue Japonaise](#langue-japonaise)
+- [ ] [Full-Stack Web Dev](#full-stack-web-dev)
+- [ ] [Cuisine](#cuisine)
 
 ## Certaines choses que je suis censé savoir (_Something I'm supposed to know_)
 
@@ -16,20 +16,33 @@ _As this document is mainly intended for me, I'm going to write it in my native 
   - [ ] Géométrie
   - [ ] Trigonométrie
   - [ ] ...
-     
+
 ----
 
 ## Ressources
 
+### Langue Japonaise
+
+- [Cours de Japonais !](https://www.youtube.com/c/CoursdejaponaisFR/videos)
+- [Big Japan](https://bigjapan.teachizy.fr/mon-espace)
+
+### Full-Stack Web Dev
+
+TO-DO
+
+### Cuisine
+
+TO-DO
+
 ### Mathématiques
 
-- https://github.com/rossant/awesome-math <sup>Awesome List</sup>
+- [Awesome Math](https://github.com/rossant/awesome-math) <sup>Awesome List</sup>
 
 #### YouTube
 
-- https://www.youtube.com/@YMONKA <sup>_Généraliste_</sup>
+- [YMONKA](https://www.youtube.com/@YMONKA) <sup>_Généraliste_</sup>
 
 #### Sites / Blog
 
-- https://www.maths-et-tiques.fr/ <sup>_Généraliste_</sup>
-- https://fr.khanacademy.org/ <sup>_Généraliste_</sup>
+- [Maths-et-Tiques](https://www.maths-et-tiques.fr/) <sup>_Généraliste_</sup>
+- [Khan Academy](https://fr.khanacademy.org/) <sup>_Généraliste_</sup>
