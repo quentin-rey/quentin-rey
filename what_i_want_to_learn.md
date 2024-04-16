@@ -21,18 +21,26 @@ _As this document is mainly intended for me, I'm going to write it in my native 
 
 ## Ressources
 
+----
+
 ### Langue Japonaise
 
 - [Cours de Japonais !](https://www.youtube.com/c/CoursdejaponaisFR/videos)
 - [Big Japan](https://bigjapan.teachizy.fr/mon-espace)
 
+----
+
 ### Full-Stack Web Dev
 
 TO-DO
 
+----
+
 ### Cuisine
 
 TO-DO
+
+----
 
 ### Mathématiques
 
@@ -46,3 +54,5 @@ TO-DO
 
 - [Maths-et-Tiques](https://www.maths-et-tiques.fr/) <sup>_Généraliste_</sup>
 - [Khan Academy](https://fr.khanacademy.org/) <sup>_Généraliste_</sup>
+
+----
