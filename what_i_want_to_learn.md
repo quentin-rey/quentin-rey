@@ -30,3 +30,4 @@ _As this document is mainly intended for me, I'm going to write it in my native 
 #### Sites / Blog
 
 - https://www.maths-et-tiques.fr/ <sup>_Généraliste_</sup>
+- https://fr.khanacademy.org/ <sup>_Généraliste_</sup>
