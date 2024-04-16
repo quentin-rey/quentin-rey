@@ -21,8 +21,6 @@ _As this document is mainly intended for me, I'm going to write it in my native 
 
 ## Ressources
 
-----
-
 ### Langue Japonaise
 
 - [Cours de Japonais !](https://www.youtube.com/c/CoursdejaponaisFR/videos)
