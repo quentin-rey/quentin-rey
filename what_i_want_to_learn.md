@@ -23,6 +23,8 @@ _As this document is mainly intended for me, I'm going to write it in my native 
 
 ### Mathématiques
 
+- https://github.com/rossant/awesome-math <sup>Awesome List</sup>
+
 #### YouTube
 
 - https://www.youtube.com/@YMONKA <sup>_Généraliste_</sup>
