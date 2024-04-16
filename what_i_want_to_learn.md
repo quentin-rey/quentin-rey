@@ -23,8 +23,8 @@ _As this document is mainly intended for me, I'm going to write it in my native 
 
 #### YouTube
 
-- https://www.youtube.com/@YMONKA
+- https://www.youtube.com/@YMONKA <sup>_Généraliste_</sup>
 
 #### Sites / Blog
 
-- https://www.maths-et-tiques.fr/
+- https://www.maths-et-tiques.fr/ <sup>_Généraliste_</sup>
