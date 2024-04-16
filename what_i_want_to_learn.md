@@ -4,7 +4,9 @@ _As this document is mainly intended for me, I'm going to write it in my native 
 
 ## De nouvelles choses (_Something new_)
 
-- [ ] ...
+- [ ] Langue Japonaise
+- [ ] Full-Stack Web Dev
+- [ ] Cuisine
 
 ## Certaines choses que je suis censé savoir (_Something I'm supposed to know_)
 
