@@ -8,6 +8,7 @@
 
 ### 2024
 
+- [Kana Exercices](https://github.com/quentin-rey/kana-exercices) - [*Try it*](https://quentin-rey.github.io/kana-exercices/)
 - [Awesome Resources](https://github.com/quentin-rey/awesome-resources)
 - [JavaScript simple Role Playing Game](https://github.com/quentin-rey/fcc-role-playing-game) <sup>a freeCodeCamp Project</sup>
 
