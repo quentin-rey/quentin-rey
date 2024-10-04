@@ -16,7 +16,7 @@ _As this document is mainly intended for me, I'm going to write it in my native 
   - [ ] Géométrie
   - [ ] Trigonométrie
   - [ ] ...
-
+- [ ] [Réseau](#réseau)
 ----
 
 ## Ressources
@@ -43,6 +43,12 @@ TO-DO
 ### Mathématiques
 
 - [Awesome Math](https://github.com/rossant/awesome-math) <sup>Awesome List</sup>
+
+### Réseau
+
+- [Notions de base relatives aux réseaux informatiques](https://learn.microsoft.com/fr-fr/training/modules/network-fundamentals/)
+- [Administrez une architecture réseau avec CISCO](https://openclassrooms.com/fr/courses/2557196-administrez-une-architecture-reseau-avec-cisco)
+- [Étudiez les sujets de l’examen de certification réseau Cisco CCNA 200-301](https://cisco.goffinet.org/ccna/fondamentaux/)
 
 #### YouTube
 
