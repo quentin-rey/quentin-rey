@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Quentin
 
 - 👨‍💻 I'm a SysAdmin, working with _Linux_, _Windows_, _VMWare_, _Ansible_, and more.
-- 🌱 I'm currently learning full-stack web development
 - 👀 I’m interested in open-source, photography, weather, japan culture and web development!
 
 ## Projects
