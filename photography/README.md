@@ -9,6 +9,7 @@
 ### Ressources Web
 
 - <https://photographylife.com/learn-photography>
+- <https://www.adobe.com/creativecloud/photography/basics.html>
 
 ## Exercices
 
