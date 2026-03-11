@@ -7,6 +7,10 @@
 
 → [Projects Ideas](projects_ideas.md)
 
+### 2026
+
+- [ZenPomodoro](https://github.com/quentin-rey/ZenPomodoro) - Made with Google AI Studio - [*Try it*](https://zenpomodoro.netlify.app/)
+
 ### 2024
 
 - [Kana Exercices](https://github.com/quentin-rey/kana-exercices) - [*Try it*](https://quentin-rey.github.io/kana-exercices/)
