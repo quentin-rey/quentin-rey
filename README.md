@@ -7,7 +7,7 @@
 
 ### 2026
 
-- [ZenPomodoro](https://github.com/quentin-rey/ZenPomodoro) - Made with Google AI Studio - [*Try it*](https://zenpomodoro.netlify.app/)
+- [ZenPomodoro](https://github.com/quentin-rey/ZenPomodoro) <sup>Made with Google AI Studio</sup>
 
 ### 2024
 
