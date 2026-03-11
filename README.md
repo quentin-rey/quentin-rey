@@ -5,8 +5,6 @@
 
 ## Projects
 
-→ [Projects Ideas](projects_ideas.md)
-
 ### 2026
 
 - [ZenPomodoro](https://github.com/quentin-rey/ZenPomodoro) - Made with Google AI Studio - [*Try it*](https://zenpomodoro.netlify.app/)
