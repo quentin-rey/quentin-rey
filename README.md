@@ -18,8 +18,3 @@
 ### 2021
 
 - [Google Homepage](https://github.com/quentin-rey/google-homepage) <sup>a The Odin Project</sup>
-
-## Regular contributions
-
-- [mdn/translated-content](https://github.com/mdn/translated-content)<br>
-_Vous souhaitez nous aider ? [Commencez ici !](https://github.com/tristantheb#mdn-vous-souhaitez-nous-aider-)_
