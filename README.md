@@ -7,6 +7,7 @@
 
 ### 2026
 
+- [MTG-RGB-HD](https://github.com/quentin-rey/MTG-RGB-HD) <sup>Made with Google AI Studio</sup>
 - [ZenPomodoro](https://github.com/quentin-rey/ZenPomodoro) <sup>Made with Google AI Studio</sup>
 
 ### 2024
