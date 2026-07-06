@@ -13,4 +13,4 @@
 
 ### 2024
 
-- [Kana Exercices](https://github.com/quentin-rey/kana-exercices) - [*Try it*](https://quentin-rey.github.io/kana-exercices/)
+- [Kana Exercices](https://github.com/quentin-rey/kana-exercices)
