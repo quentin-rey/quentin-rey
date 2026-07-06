@@ -7,6 +7,7 @@
 
 ### 2026
 
+- [Magnet Link Grabber](https://github.com/quentin-rey/magnet-link-grabber)
 - [MTG-RGB-HD](https://github.com/quentin-rey/MTG-RGB-HD)
 - [ZenPomodoro](https://github.com/quentin-rey/ZenPomodoro)
 
