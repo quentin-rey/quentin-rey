@@ -9,6 +9,7 @@
 
 - [Magnet Link Grabber](https://github.com/quentin-rey/magnet-link-grabber)
 - [MTG-RGB-HD](https://github.com/quentin-rey/MTG-RGB-HD)
+- [Awesome Weather](https://github.com/quentin-rey/awesome-weather)
 - [ZenPomodoro](https://github.com/quentin-rey/ZenPomodoro)
 
 ### 2024
