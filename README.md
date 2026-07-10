@@ -7,6 +7,7 @@
 
 ### 2026
 
+- [Sentinel-2 Compare](https://github.com/quentin-rey/sentinel2-compare)
 - [MTG-RGB-HD](https://github.com/quentin-rey/MTG-RGB-HD)
 - [Awesome Weather](https://github.com/quentin-rey/awesome-weather)
 - [ZenPomodoro](https://github.com/quentin-rey/ZenPomodoro)
